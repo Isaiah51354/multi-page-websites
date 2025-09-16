@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(109, 109, 109); 
+    color:whitesmoke;
+    font-family: Arial;
+}
+
+h1{
+    font-family: Impact;
+    background-color: blue
+}
+
+h2{
+    font-family: Impact;
+    background-color: blue
+}
+
+.more-info{
+    color: white;
+    background-color: green
+}
