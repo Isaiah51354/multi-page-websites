@@ -6,15 +6,30 @@ body {
 
 h1{
     font-family: Impact;
-    background-color: blue
+    background-color: blue;
 }
 
 h2{
     font-family: Impact;
-    background-color: blue
+    background-color: blue;
 }
 
 .more-info{
     color: white;
-    background-color: green
+    background-color: green;
+}
+
+#home{
+    color: white;
+    background-color: green;
+}
+
+.more-info{
+    color: white;
+    background-color: green;
+}
+
+#home{
+    color: white;
+    background-color: green;
 }
